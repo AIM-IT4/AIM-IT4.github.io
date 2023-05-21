@@ -23,7 +23,7 @@ const config = {
     email: 'jha.8@iitj.ac.in',
   },
   resume: {
-    fileUrl: 'https://drive.google.com/file/d/1SRccMubon_lAaNZNl5BpqIVanUHEE4vR/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: 'https://drive.google.com/file/d/1eZ2zFYNuycOkk3QHphYWUR5Q3XcCfGo3/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
           'Python',
