@@ -14,7 +14,7 @@ const config = {
     linkedin: 'akjha002',
     twitter: '@AmitKJIITM',
     facebook: '@AmitJha',
-    instagram: '@hello_mr_jha',
+    instagram: '@hello_mr.jha',
     dribbble: '',
     behance: '',
     medium: '@Akjha22',
@@ -40,30 +40,25 @@ const config = {
         ],
   experiences: [
           {
-            company: 'Elint Data Private Limited',
-            position: 'Data Scientist',
-            from: 'April 2022',
+            company: 'UBS',
+            position: 'Authorized Officer',
+            from: 'June 2023',
             to: 'Present', 
           },
     {  company: 'Reserve Bank of India',
-            position: 'Research Intern',
+            position: 'Research Analyst',
             from: 'Jan 2023',
-            to: 'Present',
+            to: 'May 2023',
     },
           {
-            company: 'IIT Roorkee',
-            position: 'Research Intern',
-            from: 'January 2022',
-            to: ' April 2022',
+            company: 'Elint Data',
+            position: 'Data Scientist',
+            from: 'May 2022',
+            to: ' December 2022',
           },
         ],
    education: [
-          {
-            institution: 'Indian Institute of Technology Madras',
-            degree: 'Ph.D. Financial Economics',
-            from: 'July 2022',
-            to: 'May 2025(Expected)'
-          },
+          
           {
             institution: 'Indian Institute of Technology Jodhpur',
             degree: 'Master of Science',
