@@ -19,7 +19,7 @@ const config = {
     behance: '',
     medium: '@Akjha22',
     website: 'https://aim-it4.github.io',
-    phone: '+91-8587995664',
+    phone: '+91-7587995664',
     email: 'jha.8@iitj.ac.in',
   },
   resume: {
