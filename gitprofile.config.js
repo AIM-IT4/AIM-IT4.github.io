@@ -15,7 +15,7 @@ const config = {
     twitter: '@AmitKJIITM',
     facebook: '@AmitJha',
     instagram: '@hello_mr.jha',
-    dribbble: '',
+    arxiv: 'https://arxiv.org/abs/2310.14604',
     behance: '',
     medium: '@Akjha22',
     website: 'https://aim-it4.github.io',
